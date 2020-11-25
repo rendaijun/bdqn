@@ -1,4 +1,4 @@
-package cn.bdqn.mapper;
+﻿package cn.bdqn.mapper;
 
 import cn.bdqn.domain.Account;
 
@@ -10,4 +10,5 @@ public interface AccountMapper {
 
     // 保存账号
     public void insert(Account account);
+//哈哈哈哈哈哈
 }
